@@ -1,0 +1,15 @@
+.todo {
+  background-color: #8758ff;
+  color: white;
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.icons svg {
+  margin-left: 10px;
+  font-size: 24px;
+}
